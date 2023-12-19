@@ -1,0 +1,11 @@
+.demo {
+    background-color: #dd8;
+    border: 1px solid black;
+    width: 100%;
+    height: 20px;
+}
+
+.vip {
+    background-color: bisque;
+    border: 2px black solid;
+}
